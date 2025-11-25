@@ -36,9 +36,8 @@ General OSS Contributions
 
 ### Misc. small or big contributions to other repositories:
 
-- **square/retrofit** [Fixes NPE when log level set at HEADERS_AND_ARGS](https://github.com/square/retrofit/pull/702)
-- **square/mortar** [Fixes crash when not specifying a @WithModule annotation with the ScreenScoper](https://github.com/square/mortar/pull/150)
 - **ktorio/ktor** [Allows customizing JSON instance](https://github.com/ktorio/ktor/pull/695)
+- **square/mortar** [Fixes crash when not specifying a @WithModule annotation with the ScreenScoper](https://github.com/square/mortar/pull/150)
 - **facebook/screenshot-tests-for-android** [Fixes link to custom test runner](https://github.com/facebook/screenshot-tests-for-android/pull/137)
 - **mercari/gaurun** [Support for GCM priority](https://github.com/mercari/gaurun/pull/90)
 - **square/okhttp** [Missing @Nullable](https://github.com/square/okhttp/pull/3709)
