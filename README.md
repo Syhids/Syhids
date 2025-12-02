@@ -43,7 +43,7 @@ General OSS Contributions
 - **square/okhttp** [Missing @Nullable](https://github.com/square/okhttp/pull/3709)
 - **Kotlin/kotlinx.serialization** [Typo](https://github.com/Kotlin/kotlinx.serialization/pull/255)
 - **getsentry/sentry-java** [Fixes crash on Android API < 16](https://github.com/getsentry/sentry-java/pull/511)
-- **joshdholtz/Sentry-Android** [Removes wrong comment](https://github.com/joshdholtz/Sentry-Android/pull/113), [Avoid a memory leak when initializing](https://github.com/joshdholtz/Sentry-Android/pull/52)
+- **joshdholtz/Sentry-Android** [Avoid a memory leak when initializing](https://github.com/joshdholtz/Sentry-Android/pull/52), [Removes wrong comment](https://github.com/joshdholtz/Sentry-Android/pull/113)
 - **j256/ormlite-core** [Allows RuntimeExceptionDao to implement Dao](https://github.com/j256/ormlite-core/pull/49)
 - **mathew-kurian/TextJustify-Android** [Avoid NPE when recycling](https://github.com/mathew-kurian/TextJustify-Android/pull/94)
 - **Whitebrim/VSCode-PlaydateTemplate** [Fixes errors on logical operator symbols](https://github.com/Whitebrim/VSCode-PlaydateTemplate/pull/16)
