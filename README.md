@@ -32,6 +32,8 @@ I like having straightforward setups for my projects that are easy and quick to 
 
 General OSS Contributions
 ----------
+- [Early contributor](https://github.com/openclaw/openclaw/pull/59) (Dec. 2025) to OpenClaw
+
 - Made the official Android Architecture example of a [fragmentless MVP application](https://github.com/Syhids/android-architecture/tree/todo-mvp-fragmentless)
 
 ### Misc. small or big contributions to other repositories:
