@@ -32,7 +32,7 @@ I like having straightforward setups for my projects that are easy and quick to 
 
 General OSS Contributions
 ----------
-- [Early contributor](https://github.com/openclaw/openclaw/pull/59) (Dec. 2025) [(2)](https://github.com/openclaw/openclaw/pull/179) [(3)](https://github.com/openclaw/openclaw/pull/410) to OpenClaw
+- [Early](https://github.com/openclaw/openclaw/pull/59) (Dec. 2025) OpenClaw contributor [(2)](https://github.com/openclaw/openclaw/pull/179) [(3)](https://github.com/openclaw/openclaw/pull/410)
 
 - Made the official Android Architecture example of a [fragmentless MVP application](https://github.com/Syhids/android-architecture/tree/todo-mvp-fragmentless)
 
